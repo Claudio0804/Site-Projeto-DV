@@ -1,0 +1,120 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #a4ffac;
+}
+
+.textoCabecalho{
+    text-align: center;
+    margin-top: -70px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.BarraSuperior {
+    width: 100%;
+    background-color: rgba(1, 36, 1, 0.781);
+    height: 100px;
+    border: 5px solid black;
+}
+.BarraLateral {
+    width: 200px;
+    background-color: rgba(1, 36, 1, 0.781);
+    float: right ;
+    height: 4000px;
+    border-left: 5px solid black ;
+    border-right: 5px solid black ;
+    border-bottom: 5px solid black ;
+}
+img#logoimagem{
+    width: 100px;
+}
+
+.button1
+    
+{  
+    margin: 10px;
+    padding: 12.5px 35px;
+    border: 10px;
+    border-radius: 100px;
+    background-color: #012704;
+    color: #ffffff;
+    font-weight: Bold;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+  }
+  
+  button:hover {
+    background-color: #099c15;
+    box-shadow: 0 0 20px #00ff004b;
+  }
+  
+  button:active {
+    background-color: #3cff00;
+    transition: all 0.25s;
+    -webkit-transition: all 0.25s;
+    box-shadow: none;
+  }
+#tituloPrincipal{
+    text-align: center; 
+    margin-top: 20px;
+    font-size: 30px;
+}
+.formatacaoTextoPadrao{
+    text-align: justify;
+    font-size: 25px;
+    padding-left: 40px;
+    margin-right: 100px;
+    margin-top: 50px;
+    max-width: 1250px;
+}
+img#imagemGuerra1{
+    text-align: center;
+    width: 600px;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+strong{
+    color:#c90000
+}
+#lista1{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+li{
+    margin-top: 10px;
+    font-size: 20px ;
+}
+#Plista{
+    margin-top: 10px;
+}
+img#fotoguerra2{
+    width: 900px;
+    margin-left: 350px;
+    margin-top: 40px;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+img#imagemguerra3{
+    
+        float: right;
+        border: transparent thin solid;
+        margin-right: 120px;
+        width: 300px;
+        height: 465px   
+}
+i{
+    color: rgb(255, 0, 242);
+}
+
+  
+  
+  
+      

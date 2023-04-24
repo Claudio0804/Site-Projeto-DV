@@ -1,0 +1,12 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+img#Batallas{
+    width: 750px ;
+    margin-left: 400px;
+}
+p{
+    margin-top: 40px;
+}
